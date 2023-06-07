@@ -259,8 +259,6 @@ Gain experience using Postman to test web server routes
 
 Gain experience working with JSON
 
-Extra credit: Gain experience using Fastify with POST, PUT, and DELETE verbs
-
   Project 05-
   
 Link for PROJECT 05--
