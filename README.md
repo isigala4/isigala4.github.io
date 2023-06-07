@@ -303,7 +303,7 @@ Gain more experience working with static data
 
  Project 07-
   
-Link for PROJECT 07--
+Link for PROJECT 07-- isigala4.github.io/isigala4.github.io
 
 Here are the learning objectives for this project:
 
