@@ -6,7 +6,7 @@
 
  Lab 01 -
 
-Link for LAB 01 --
+Link for LAB 01 -- https://isigala4.github.io/cit281-lab1/
 
 In this lab the goal was to achieve the following things:
 
