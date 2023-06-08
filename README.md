@@ -281,7 +281,7 @@ Gain more experience working with objects and arrays
 
   Project 06-
   
-Link for PROJECT 06--
+Link for PROJECT 06-- https://isigala4.github.io/cit281-p6/
 
 Here are the learning objectives for this project:
 
