@@ -199,7 +199,7 @@ Gain experience writing and executing non-web server Node.js JavaScript code
 
   Project 02-
   
-Link for PROJECT 02--
+Link for PROJECT 02-- https://isigala4.github.io/cit281-p2/
 
 Here are the learning objectives for this project:
 
