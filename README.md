@@ -22,7 +22,7 @@ In this lab the goal was to achieve the following things:
 
  Lab 02 -
  
-Link for LAB 02 --
+Link for LAB 02 -- https://isigala4.github.io/cit281-lab2/
  
 In this lab the goal was to achieve the following things:
  
