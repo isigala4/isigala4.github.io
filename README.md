@@ -52,7 +52,7 @@ Use CLI commands for git commands
 
   Lab 03 -
   
-Link for LAB 03 -- 
+Link for LAB 03 -- https://isigala4.github.io/cit281-lab3/
 
 In this lab the goal was to achieve the following things:
 
