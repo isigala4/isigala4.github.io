@@ -74,7 +74,7 @@ In this lab the goal was to achieve the following things:
  
   Lab 04 -
  
-Link for LAB 04 --
+Link for LAB 04 -- https://isigala4.github.io/cit281-lab4/
 
 In this lab the goal was to achieve the following things:
 
