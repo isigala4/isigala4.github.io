@@ -132,7 +132,7 @@ In this lab the goal was to achieve the following things:
 
   Lab 07 -
   
-Link for LAB 07 --
+Link for LAB 07 -- https://isigala4.github.io/cit281-lab7/
 
 In this lab the goal was to achieve the following things:
 
