@@ -92,7 +92,7 @@ In this lab the goal was to achieve the following things:
 
   Lab 05 -
   
-Link for LAB 05 --
+Link for LAB 05 -- https://isigala4.github.io/cit281-lab5/
 
 In this lab the goal was to achieve the following things:
 
