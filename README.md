@@ -166,7 +166,7 @@ In this lab the goal was to achieve the following things:
 
   Lab 09 -
   
-Link for LAB 09 --
+Link for LAB 09 -- https://isigala4.github.io/cit281-lab9/
 
 In this lab the goal was to achieve the following things:
 
