@@ -112,7 +112,7 @@ In this lab the goal was to achieve the following things:
 
   Lab 06 -
   
-Link for LAB 06 --
+Link for LAB 06 -- https://isigala4.github.io/cit281-lab6/
 
 In this lab the goal was to achieve the following things:
 
