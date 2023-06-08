@@ -150,7 +150,7 @@ In this lab the goal was to achieve the following things:
   
   Lab 08 -
   
-Link for LAB 08 --
+Link for LAB 08 -- https://isigala4.github.io/cit281-lab8/
 
 In this lab the goal was to achieve the following things:
 
