@@ -185,7 +185,7 @@ PROJECTS-
 
   Project 01-
   
-Link for PROJECT 01--
+Link for PROJECT 01-- https://isigala4.github.io/cit281-p1/
 
 Here are the learning objectives for this project:
 
