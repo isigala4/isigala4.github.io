@@ -211,7 +211,7 @@ Practice refactoring JavaScript code
 
   Project 03-
   
-Link for PROJECT 03--
+Link for PROJECT 03-- https://isigala4.github.io/cit281-p3/
 
 Here are the learning objectives for this project:
 
