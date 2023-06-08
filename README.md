@@ -261,7 +261,7 @@ Gain experience working with JSON
 
   Project 05-
   
-Link for PROJECT 05--
+Link for PROJECT 05-- https://isigala4.github.io/cit281-p5/
 
 Here are the learning objectives for this project:
 
